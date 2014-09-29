@@ -1,3 +1,0 @@
-[submodule "route-me"]
-    path = route-me
-    url = git://github.com/route-me/route-me.git
